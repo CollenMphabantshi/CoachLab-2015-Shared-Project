@@ -1,0 +1,17 @@
+git config --global user.name "your username"
+git config --global user.email youremail@example.com
+
+git pull
+
+git add -A
+git commit -m "message"
+
+git status
+
+git pull
+git push origin master
+
+
+
+inorder to test if it works:
+collen mphabantshi added
